@@ -7,5 +7,4 @@ la suma de 10 y 22
 
 <img src="https://raw.githubusercontent.com/pdep-utn/mumuki-guia-haskell-segundo-tp-funcional-2022/master/assets/Captura_1651625321459.JPG" alt="lenguaje" width="auto" height="auto">
 Código
-```
 
