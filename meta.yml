@@ -1,0 +1,9 @@
+---
+name: Segundo TP Funcional 2022
+locale: es
+type: practice
+beta: false
+language: haskell
+id_format: "%05d"
+order: []
+private: false
