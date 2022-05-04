@@ -1,0 +1,1 @@
+Saber si la memoria de un micro está ordenada, esto ocurre cuando las celdas de memoria contienen valores menores o iguales que las subsiguientes. El procesador at8088 y el xt8088 tienen la memoria ordenada, uno que contenga en la memoria los valores [2, 5, 1, 0, ...] no.
